@@ -120,7 +120,7 @@ figure {
 }
 
 .project-title {
-  font-size: 30px;
+  font-size: 25px;
   margin-top: 0;
   margin-bottom: 10px;
 }
@@ -133,14 +133,14 @@ figure {
 
 .project-a {
   text-decoration: none;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: bold;
   color: #026fff;
   margin-left: 20px;
 }
 
 .project-description {
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .project strong {
